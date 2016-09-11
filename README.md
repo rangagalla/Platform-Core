@@ -1,2 +1,2 @@
 # Platform-Core
-To enhance the knowledge on BIOS
+To enhance the knowledge on BIOS, chipsets
